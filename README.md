@@ -1,2 +1,2 @@
-# MetroidvaniaRpg1
-My first Metroidvania Rpg game.
+# MetroidvaniaRpg-pre
+Preliminary learning of making a Metroidvania Rpg game.
